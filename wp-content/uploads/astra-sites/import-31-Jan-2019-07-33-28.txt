@@ -1,0 +1,376 @@
+
+# System Details: 
+Debug Mode 		: Disabled
+Operating System 	: Linux
+Software 		: Apache
+MySQL version 		: 5.6.42
+XML Reader 		: Yes
+PHP Version 		: 7.0.32
+PHP Max Input Vars 	: 16000
+PHP Max Post Size 	: 130M
+PHP Extension GD 	: Yes
+PHP Max Execution Time 	: 300
+Max Upload Size 	: 128 MB
+Memory Limit 		: Current memory limit 40M. We recommend setting memory to at least 64M.
+Timezone 		: Europe/Paris
+
+-----
+
+Importing Started! - 19:38:43 UTC
+---
+
+WHY IMPORT PROCESS CAN FAIL? READ THIS - 
+https://wpastra.com/docs/?p=1314&utm_source=demo-import-panel&utm_campaign=import-error&utm_medium=wp-dashboard
+
+---
+
+
+1. Imported "Customizer Settings"  - 19:38:43 UTC
+
+---
+
+2. Importing "XML"  - 19:38:45 UTC
+Imported "Uncategorized" (category)
+Term 1 remapped to 2
+Imported "Footer Menu" (nav_menu)
+Term 5 remapped to 3
+Imported "Top Nav" (nav_menu)
+Term 6 remapped to 4
+Failed to import astra-site-page-builder Beaver Builder
+Taxonomie non valide.
+Failed to import astra-site-page-builder Brizy
+Taxonomie non valide.
+Failed to import astra-site-page-builder Elementor
+Taxonomie non valide.
+Failed to import astra-sites-type Free
+Taxonomie non valide.
+Failed to import astra-sites-type Premium
+Taxonomie non valide.
+Imported "Home" (Page)
+Post 2 remapped to 7
+Imported "banquet-free-img" (Fichier média)
+Post 56 remapped to 56
+Imported "bar-free-img" (Fichier média)
+Post 57 remapped to 57
+Imported "breakfast-free-img" (Fichier média)
+Post 58 remapped to 58
+Imported "fine-dining-free-img" (Fichier média)
+Post 59 remapped to 59
+Imported "liners-free-img" (Fichier média)
+Post 60 remapped to 60
+Imported "spa-free-img" (Fichier média)
+Post 61 remapped to 61
+Imported "swimming-pool-free-img" (Fichier média)
+Post 62 remapped to 62
+Imported "toileteries-free-img" (Fichier média)
+Post 63 remapped to 63
+Imported "car-rental-free-img" (Fichier média)
+Post 67 remapped to 67
+Imported "cafe-free-img" (Fichier média)
+Post 68 remapped to 68
+Imported "dryer-free-img" (Fichier média)
+Post 69 remapped to 69
+Imported "reception-free-img" (Fichier média)
+Post 70 remapped to 70
+Imported "restaurant-free-img" (Fichier média)
+Post 71 remapped to 71
+Imported "room-service-free-img" (Fichier média)
+Post 72 remapped to 72
+Imported "wifi-free-img" (Fichier média)
+Post 73 remapped to 73
+Imported "slide1-free-img" (Fichier média)
+Post 105 remapped to 105
+Imported "slide2-free-img" (Fichier média)
+Post 106 remapped to 106
+Imported "slide3-free-img" (Fichier média)
+Post 107 remapped to 107
+Imported "slide4-free-img" (Fichier média)
+Post 108 remapped to 108
+Imported "slide5-free-img" (Fichier média)
+Post 109 remapped to 109
+Imported "slide6-free-img" (Fichier média)
+Post 110 remapped to 110
+Imported "slide7-free-img" (Fichier média)
+Post 111 remapped to 111
+Imported "slide8-free-img" (Fichier média)
+Post 112 remapped to 112
+Imported "Enquiry" (Formulaire de contact)
+Post 130 remapped to 130
+Imported "Credits" (Élément de menu de navigation)
+Post 156 remapped to 156
+Processing menu item custom
+Menu item 156 mapped to 156
+Imported "About Us" (Élément de menu de navigation)
+Post 162 remapped to 162
+Processing menu item custom
+Menu item 162 mapped to 162
+Imported "Amenities" (Élément de menu de navigation)
+Post 163 remapped to 163
+Processing menu item custom
+Menu item 163 mapped to 163
+Imported "Gallery" (Élément de menu de navigation)
+Post 164 remapped to 164
+Processing menu item custom
+Menu item 164 mapped to 164
+Imported "Packages" (Élément de menu de navigation)
+Post 166 remapped to 166
+Processing menu item custom
+Menu item 166 mapped to 166
+Imported "cta-bg-free-img" (Fichier média)
+Post 177 remapped to 177
+Imported "history-free-img" (Fichier média)
+Post 195 remapped to 195
+Imported "double-room-free-img" (Fichier média)
+Post 216 remapped to 216
+Imported "duplex-suite-free-img" (Fichier média)
+Post 217 remapped to 217
+Imported "executive-suite-free-img" (Fichier média)
+Post 218 remapped to 218
+Imported "single-room-free-img" (Fichier média)
+Post 219 remapped to 219
+Imported "bar-free-img" (Fichier média)
+Post 222 remapped to 222
+Imported "bath-tub-free-img" (Fichier média)
+Post 223 remapped to 223
+Imported "room-service-free-img" (Fichier média)
+Post 224 remapped to 224
+Imported "sea-view-free-img" (Fichier média)
+Post 225 remapped to 225
+Imported "wifi-free-img" (Fichier média)
+Post 226 remapped to 226
+Imported "favicon-free-img" (Fichier média)
+Post 236 remapped to 236
+Imported "hotel-and-bnb-astra-facebook-yoast-free-img" (Fichier média)
+Post 291 remapped to 291
+Imported "astra" (CSS personnalisé)
+Post 294 remapped to 294
+Imported "home-banner-free-img" (Fichier média)
+Post 311 remapped to 311
+Imported "mount-inn-logo-free-img" (Fichier média)
+Post 319 remapped to 319
+Imported "mount-inn-logo-@2x-free-img" (Fichier média)
+Post 320 remapped to 320
+Imported "mount-innwhite-logo-free-img" (Fichier média)
+Post 322 remapped to 322
+Imported "balcony-free-img" (Fichier média)
+Post 334 remapped to 334
+Running post-processing for post 7
+Could not find the author for "Home" (post #7)
+Post 7 was imported with author "harshadd", but could not be found
+Post 7 was marked for post-processing, but none was required.
+Running post-processing for post 56
+Could not find the author for "banquet-free-img" (post #56)
+Post 56 was imported with author "harshadd", but could not be found
+Post 56 was marked for post-processing, but none was required.
+Running post-processing for post 57
+Could not find the author for "bar-free-img" (post #57)
+Post 57 was imported with author "harshadd", but could not be found
+Post 57 was marked for post-processing, but none was required.
+Running post-processing for post 58
+Could not find the author for "breakfast-free-img" (post #58)
+Post 58 was imported with author "harshadd", but could not be found
+Post 58 was marked for post-processing, but none was required.
+Running post-processing for post 59
+Could not find the author for "fine-dining-free-img" (post #59)
+Post 59 was imported with author "harshadd", but could not be found
+Post 59 was marked for post-processing, but none was required.
+Running post-processing for post 60
+Could not find the author for "liners-free-img" (post #60)
+Post 60 was imported with author "harshadd", but could not be found
+Post 60 was marked for post-processing, but none was required.
+Running post-processing for post 61
+Could not find the author for "spa-free-img" (post #61)
+Post 61 was imported with author "harshadd", but could not be found
+Post 61 was marked for post-processing, but none was required.
+Running post-processing for post 62
+Could not find the author for "swimming-pool-free-img" (post #62)
+Post 62 was imported with author "harshadd", but could not be found
+Post 62 was marked for post-processing, but none was required.
+Running post-processing for post 63
+Could not find the author for "toileteries-free-img" (post #63)
+Post 63 was imported with author "harshadd", but could not be found
+Post 63 was marked for post-processing, but none was required.
+Running post-processing for post 67
+Could not find the author for "car-rental-free-img" (post #67)
+Post 67 was imported with author "harshadd", but could not be found
+Post 67 was marked for post-processing, but none was required.
+Running post-processing for post 68
+Could not find the author for "cafe-free-img" (post #68)
+Post 68 was imported with author "harshadd", but could not be found
+Post 68 was marked for post-processing, but none was required.
+Running post-processing for post 69
+Could not find the author for "dryer-free-img" (post #69)
+Post 69 was imported with author "harshadd", but could not be found
+Post 69 was marked for post-processing, but none was required.
+Running post-processing for post 70
+Could not find the author for "reception-free-img" (post #70)
+Post 70 was imported with author "harshadd", but could not be found
+Post 70 was marked for post-processing, but none was required.
+Running post-processing for post 71
+Could not find the author for "restaurant-free-img" (post #71)
+Post 71 was imported with author "harshadd", but could not be found
+Post 71 was marked for post-processing, but none was required.
+Running post-processing for post 72
+Could not find the author for "room-service-free-img" (post #72)
+Post 72 was imported with author "harshadd", but could not be found
+Post 72 was marked for post-processing, but none was required.
+Running post-processing for post 73
+Could not find the author for "wifi-free-img" (post #73)
+Post 73 was imported with author "harshadd", but could not be found
+Post 73 was marked for post-processing, but none was required.
+Running post-processing for post 105
+Could not find the author for "slide1-free-img" (post #105)
+Post 105 was imported with author "harshadd", but could not be found
+Post 105 was marked for post-processing, but none was required.
+Running post-processing for post 106
+Could not find the author for "slide2-free-img" (post #106)
+Post 106 was imported with author "harshadd", but could not be found
+Post 106 was marked for post-processing, but none was required.
+Running post-processing for post 107
+Could not find the author for "slide3-free-img" (post #107)
+Post 107 was imported with author "harshadd", but could not be found
+Post 107 was marked for post-processing, but none was required.
+Running post-processing for post 108
+Could not find the author for "slide4-free-img" (post #108)
+Post 108 was imported with author "harshadd", but could not be found
+Post 108 was marked for post-processing, but none was required.
+Running post-processing for post 109
+Could not find the author for "slide5-free-img" (post #109)
+Post 109 was imported with author "harshadd", but could not be found
+Post 109 was marked for post-processing, but none was required.
+Running post-processing for post 110
+Could not find the author for "slide6-free-img" (post #110)
+Post 110 was imported with author "harshadd", but could not be found
+Post 110 was marked for post-processing, but none was required.
+Running post-processing for post 111
+Could not find the author for "slide7-free-img" (post #111)
+Post 111 was imported with author "harshadd", but could not be found
+Post 111 was marked for post-processing, but none was required.
+Running post-processing for post 112
+Could not find the author for "slide8-free-img" (post #112)
+Post 112 was imported with author "harshadd", but could not be found
+Post 112 was marked for post-processing, but none was required.
+Running post-processing for post 130
+Could not find the author for "Enquiry" (post #130)
+Post 130 was imported with author "harshadd", but could not be found
+Post 130 was marked for post-processing, but none was required.
+Running post-processing for post 156
+Could not find the author for "Credits" (post #156)
+Post 156 was imported with author "harshadd", but could not be found
+Post 156 was marked for post-processing, but none was required.
+Running post-processing for post 162
+Could not find the author for "About Us" (post #162)
+Post 162 was imported with author "harshadd", but could not be found
+Post 162 was marked for post-processing, but none was required.
+Running post-processing for post 163
+Could not find the author for "Amenities" (post #163)
+Post 163 was imported with author "harshadd", but could not be found
+Post 163 was marked for post-processing, but none was required.
+Running post-processing for post 164
+Could not find the author for "Gallery" (post #164)
+Post 164 was imported with author "harshadd", but could not be found
+Post 164 was marked for post-processing, but none was required.
+Running post-processing for post 166
+Could not find the author for "Packages" (post #166)
+Post 166 was imported with author "harshadd", but could not be found
+Post 166 was marked for post-processing, but none was required.
+Running post-processing for post 177
+Could not find the author for "cta-bg-free-img" (post #177)
+Post 177 was imported with author "harshadd", but could not be found
+Post 177 was marked for post-processing, but none was required.
+Running post-processing for post 195
+Could not find the author for "history-free-img" (post #195)
+Post 195 was imported with author "harshadd", but could not be found
+Post 195 was marked for post-processing, but none was required.
+Running post-processing for post 216
+Could not find the author for "double-room-free-img" (post #216)
+Post 216 was imported with author "harshadd", but could not be found
+Post 216 was marked for post-processing, but none was required.
+Running post-processing for post 217
+Could not find the author for "duplex-suite-free-img" (post #217)
+Post 217 was imported with author "harshadd", but could not be found
+Post 217 was marked for post-processing, but none was required.
+Running post-processing for post 218
+Could not find the author for "executive-suite-free-img" (post #218)
+Post 218 was imported with author "harshadd", but could not be found
+Post 218 was marked for post-processing, but none was required.
+Running post-processing for post 219
+Could not find the author for "single-room-free-img" (post #219)
+Post 219 was imported with author "harshadd", but could not be found
+Post 219 was marked for post-processing, but none was required.
+Running post-processing for post 222
+Could not find the author for "bar-free-img" (post #222)
+Post 222 was imported with author "harshadd", but could not be found
+Post 222 was marked for post-processing, but none was required.
+Running post-processing for post 223
+Could not find the author for "bath-tub-free-img" (post #223)
+Post 223 was imported with author "harshadd", but could not be found
+Post 223 was marked for post-processing, but none was required.
+Running post-processing for post 224
+Could not find the author for "room-service-free-img" (post #224)
+Post 224 was imported with author "harshadd", but could not be found
+Post 224 was marked for post-processing, but none was required.
+Running post-processing for post 225
+Could not find the author for "sea-view-free-img" (post #225)
+Post 225 was imported with author "harshadd", but could not be found
+Post 225 was marked for post-processing, but none was required.
+Running post-processing for post 226
+Could not find the author for "wifi-free-img" (post #226)
+Post 226 was imported with author "harshadd", but could not be found
+Post 226 was marked for post-processing, but none was required.
+Running post-processing for post 236
+Could not find the author for "favicon-free-img" (post #236)
+Post 236 was imported with author "harshadd", but could not be found
+Post 236 was marked for post-processing, but none was required.
+Running post-processing for post 291
+Could not find the author for "hotel-and-bnb-astra-facebook-yoast-free-img" (post #291)
+Post 291 was imported with author "harshadd", but could not be found
+Post 291 was marked for post-processing, but none was required.
+Running post-processing for post 294
+Could not find the author for "astra" (post #294)
+Post 294 was imported with author "harshadd", but could not be found
+Post 294 was marked for post-processing, but none was required.
+Running post-processing for post 311
+Could not find the author for "home-banner-free-img" (post #311)
+Post 311 was imported with author "harshadd", but could not be found
+Post 311 was marked for post-processing, but none was required.
+Running post-processing for post 319
+Could not find the author for "mount-inn-logo-free-img" (post #319)
+Post 319 was imported with author "ramak", but could not be found
+Post 319 was marked for post-processing, but none was required.
+Running post-processing for post 320
+Could not find the author for "mount-inn-logo-@2x-free-img" (post #320)
+Post 320 was imported with author "ramak", but could not be found
+Post 320 was marked for post-processing, but none was required.
+Running post-processing for post 322
+Could not find the author for "mount-innwhite-logo-free-img" (post #322)
+Post 322 was imported with author "ramak", but could not be found
+Post 322 was marked for post-processing, but none was required.
+Running post-processing for post 334
+Could not find the author for "balcony-free-img" (post #334)
+Post 334 was imported with author "harshadd", but could not be found
+Post 334 was marked for post-processing, but none was required.
+
+---
+
+3. Imported "Site Options"  - 19:39:22 UTC
+
+---
+
+4. Importing "Widgets"  - 19:39:23 UTC
+Sidebar: sidebar-1
+Widget: "Rechercher" - Widget already exists
+Widget: "Articles récents" - Widget already exists
+Widget: "Commentaires récents" - Widget already exists
+Widget: "Archives" - Widget already exists
+Widget: "Catégories" - Widget already exists
+Widget: "Méta" - Widget already exists
+Sidebar: advanced-footer-widget-1
+Widget: "Image" - Imported
+Widget: "Texte" - Imported
+Sidebar: advanced-footer-widget-2
+Widget: "Texte" - Imported
+
+---
+
+Import Complete!  - 19:39:24 UTC
